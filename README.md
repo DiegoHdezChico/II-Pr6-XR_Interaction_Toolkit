@@ -19,4 +19,5 @@ Adicionalmente, ha sido necesario acceder al asset encargado del movimiento del 
 Todo esto con el objetivo de enlazar la función select con el trigger del mando derecho y así poder interactuar con los elementos de la escena que habíamos configurado previamente.
 
 El siguiente gif muestra el resultado final:
+
 ![](img/PR6.gif)
